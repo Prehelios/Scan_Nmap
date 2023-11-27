@@ -1,16 +1,16 @@
 # Scan_Nmap
-Descriptif complet et instructions d'utilisation :
+Full description and instructions for use:
 
-    Prérequis :
-        Assure-toi d'avoir Python installé sur ton système.
-        Installe la bibliothèque python-nmap en utilisant la commande pip install python-nmap.
+Prerequisites:
+Make sure you have Python installed on your system.
+Installs the python-nmap library using the pip install python-nmap command.
 
-    Utilisation :
-        Exécute le script en utilisant la commande python script_name.py dans un terminal.
-        Saisis l'adresse IP ou le site à scanner lorsque cela est demandé.
+Use :
+Runs the script using the python script_name.py command in a terminal.
+Enter the IP address or site to scan when prompted.
 
-    Résultats :
-        Les résultats du scan sont affichés à l'écran avec des informations détaillées pour chaque port ouvert.
-        Les résultats sont également enregistrés dans un fichier nommé prehelios_scan_results_target.txt, où target est l'adresse IP ou le site que tu as scanné.
+Results :
+The scan results are displayed on the screen with detailed information for each open port.
+The results are also saved in a file named prehelios_scan_results_target.txt, where target is the IP address or site you scanned.
 
-Assure-toi d'ajuster le script en fonction de tes besoins spécifiques et de respecter toutes les lois et règlements applicables lors de l'utilisation d'outils de sécurité comme Nmap et Metasploit.
+Be sure to adjust the script according to your specific needs and comply with all applicable laws and regulations when using security tools like Nmap and Metasploit.
